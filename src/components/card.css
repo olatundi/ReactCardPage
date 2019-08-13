@@ -1,0 +1,65 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css");
+
+#mainCard{
+    width: 20rem;
+}
+
+#bodyCard{
+    width: 18rem;
+    background-image: image("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.wallpapersafari.com%2F14%2F82%2FamY4dN.jpg&imgrefurl=https%3A%2F%2Fwallpapersafari.com%2Fw%2FamY4dN&docid=aSlVr-uryUwfYM&tbnid=RT_r9yXL54VthM%3A&vet=10ahUKEwixpoXwz__jAhWVSxUIHRNkCGUQMwhqKAowCg..i&w=2560&h=1600&bih=969&biw=1920&q=magic%20the%20gathering%20red%20backgrounds&ved=0ahUKEwixpoXwz__jAhWVSxUIHRNkCGUQMwhqKAowCg&iact=mrc&uact=8");
+    background-image: url("https://us.123rf.com/450wm/yamabikay/yamabikay1711/yamabikay171100309/90612610-red-textured-paper-background-high-resolution-photo-.jpg?ver=6");
+    border-style: solid; border-width:10px; border-color: rgb(14, 13, 13);
+}
+ /* #titleCon{
+        border-style: solid; border-width:2px; border-color: rosybrown;
+}  */
+#monster{
+    border-style: solid; border-width:2px; border-color: rosybrown;
+
+}
+
+#feature{
+    font-style: italic;
+
+}
+#manaTitle{
+    height: 10pt;
+    width: 10pt;
+    float: right;
+    
+}
+#manaEdi{
+    height: 10pt;
+    width: 10pt;
+    float: right;
+    
+}
+#manaBody{
+    height: 10pt;
+    width: 10pt;
+}
+h5{
+    background-color: antiquewhite;
+
+    float: left;
+    font-weight: bold;
+}
+h6{
+    font-weight: bold;
+    background-color: antiquewhite;
+    border-style: solid; border-width:2px; border-color: rosybrown;
+
+}
+h7{
+    
+        font-weight: bold;
+        
+    
+
+}
+p{
+    background-color: antiquewhite;
+
+    border-style: solid; border-width:2px; border-color: rosybrown;
+
+}
